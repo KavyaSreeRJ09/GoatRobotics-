@@ -35,6 +35,7 @@ PriorityQueue from the queue library for efficient A* implementation
 
 # Installation and Usage
 pip install pygame
+
 python roboticNavigation.py
 
 
