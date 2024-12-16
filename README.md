@@ -1,14 +1,13 @@
-
 ## (1 - GRID ROBOTICS)
 
 The provided code simulates a dynamic robot navigation system in a grid environment with moving obstacles using Python and Pygame. The robot uses the A pathfinding algorithm* to find an optimal path to its destination while avoiding obstacles that move randomly at set intervals.
 
-## Features
+# Features
 Grid Environment: The simulation operates on a 10x10 grid where each cell represents a navigable area.
 A Pathfinding Algorithm*: The robot dynamically calculates the shortest path to the destination while avoiding obstacles.
 Dynamic Obstacles: Obstacles move randomly within the grid at regular intervals, adding complexity to the navigation.
 
-## Visualization:
+# Visualization:
 
 The robot is represented as a green square.
 
@@ -50,6 +49,8 @@ PriorityQueue from the queue library for efficient A* implementation.
 pip install pygame
 
 python roboticNavigation.py
+
+
 
 ## (2- ROBOT CENTER MOVEMENT )
 
